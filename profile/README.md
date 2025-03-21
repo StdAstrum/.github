@@ -41,7 +41,7 @@ We're always looking for passionate individuals to join our community! While the
 
 ## License
 
-Unify is licensed under the APL(Astrum Products License) License. See the [LICENSE](https://github.com/StdAstrum/.github/edit/main/licenses/APL.md) file for details.
+Unify is licensed under the APL(Astrum Products License) License. See the [LICENSE](https://github.com/StdAstrum/.github/blob/main/licenses/APL.md) file for details.
 
 ## Connect With Us
 
