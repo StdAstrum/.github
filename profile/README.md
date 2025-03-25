@@ -48,6 +48,6 @@ Unify is licensed under the APL(Astrum Products License) License. See the [LICEN
 *   [Link to Telegram Channel](http://t.me/astrum_dev)
 *   [Link to TikTok](https://www.tiktok.com/@astrum_std)
 *   [Link to YouTube](https://www.youtube.com/@astrum-std)
-*   [Link to Blog](https://astrum.ct.ws/project-details)
+*   [Link to Blog](https://ast-rum.tech/project-details)
 
 Copyright © 2025 Astrum
