@@ -41,4 +41,4 @@ The specific measures taken will be determined at the sole discretion of Astrum 
 
 ## Contact
 
-For questions regarding this license, please contact us at astrum736@gmail.com.
+For questions regarding this license, please contact us at support@ast-rum.tech.
