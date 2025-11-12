@@ -1,7 +1,7 @@
 # Astrum - The Future of Collaborative Communication
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/203841999?s=200&v=4" />
+  <img src="https://avatars.githubusercontent.com/u/203841999?s=400&u=89b6c4882f46f5b7a8eb80a065af9d15a1807e45&v=4" />
 </div>
 
 ## Your All-in-One Platform for Modern Teams
